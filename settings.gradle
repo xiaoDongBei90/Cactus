@@ -1,0 +1,2 @@
+rootProject.name='Cactus'
+include ':app', ':multiple-status-view'
